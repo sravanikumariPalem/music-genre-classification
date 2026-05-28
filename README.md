@@ -1,6 +1,6 @@
 **# Music Genre Classification**
 Classifying music genres using classical machine learning and deep learning on the GTZAN dataset. Compares feature-engineered ML models against a CNN trained on Mel spectrograms.
-** Overview**
+**Overview**
 This project explores two approaches to automatic music genre classification:
 Classical ML — hand-crafted audio features (MFCCs, chroma, tempo, zero-crossing rate) fed into Random Forest, SVM, k-NN, and Logistic Regression classifiers
 Deep Learning (CNN) — Mel spectrograms generated from 3-second audio segments used to train a custom Convolutional Neural Network
